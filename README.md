@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nathanael Cheramlak</h1>
-<h3 align="center">A Developer</h3>
+<h3 align="center">An Engineer</h3>
 
 
-- 🌱 I’m currently learning **Frondend Dev [HTML,CSS,JS]**
+- 🌱 I’m currently learning **Frondend Dev [HTML,CSS,JS,REACT]**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nathanaelcheramlak](https://github.com/nathanaelcheramlak)
 

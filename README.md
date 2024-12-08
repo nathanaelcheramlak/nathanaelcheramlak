@@ -2,7 +2,7 @@
 <h3 align="center">An Engineer</h3>
 
 
-- 🌱 I’m currently learning **Frondend Dev [HTML,CSS,JS,REACT]**
+- 🌱 I’m currently learning **to code**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nathanaelcheramlak](https://github.com/nathanaelcheramlak)
 

@@ -20,7 +20,7 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jodahe1&mode=weekly&theme=whatsapp-dark2">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=nathanaelcheramlak&mode=weekly&theme=whatsapp-dark2">
 </p>
 
 ---

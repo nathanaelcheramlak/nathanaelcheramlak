@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nathanaelcheramlak&theme=calm&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=nathanaelcheramlak&theme=calm&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </div>
 

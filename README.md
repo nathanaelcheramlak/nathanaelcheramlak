@@ -29,9 +29,8 @@
 
 ---
 
-<h2 align="center">Let Me Feed on Commits.🐍</h2>
-
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 ![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanaelcheramlak&base=209&label=Profile%20views&color=lightgrey&style=flat" alt="https://github.com/nathanaelcheramlak" /> </p>
